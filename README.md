@@ -120,6 +120,9 @@ page with just a placeholder avatar. Marty and Doc should not be there.
 You're going to add both the doc-brown branch and the marty-mcfly branch to the master branch using merge. Merge the `doc-brown` branch first by running `git merge doc-brown -m "merge doc brown"` in the terminal.
 
 
+You're going to add both the doc-brown branch and the marty-mcfly branch to the master branch using merge. Merge the `doc-brown` branch first by running `git merge doc-brown -m "merge doc brown"` in the terminal.
+
+
 Here, we're saying: "Integrate the differences between `master` and `doc-brown`
 _back_ into `master`."
 
